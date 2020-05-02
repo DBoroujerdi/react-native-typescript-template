@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-dan-react-native-ts",
+  "version": "0.0.1",
+  "description": "Dans React Native Typescript template",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dboroujerdi/cra-template-dan-react-native-ts.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Daniel Boroujerdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dboroujerdi/cra-template-dan-react-native-ts"
+  },
+  "homepage": "https://github.com/dboroujerdi/cra-template-dan-react-native-ts#readme"
+}
